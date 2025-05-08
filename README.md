@@ -23,6 +23,8 @@ A notebook for coherence calculation
 
 ### `synthetic_0extent.ipynb`
 A notebook for creating a synthetic earthquake simulation
+- Generation of synthetic foreshocks and mainshock using custom spatial parameters
+- Coherence graphs calculated
 
 
 ---
